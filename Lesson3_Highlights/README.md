@@ -4,15 +4,15 @@
 LIS 2360:  Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+February 3, 2017
 
 ## Student Name:  
-(First and Last Name)
+McKenzie Harrell
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+(We created a Github account and got to create a repository that we moved to our Cloud9 Lesson 3 Assignment. We also described some of the major terms of this lesson on our website. )
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned the importance of Github and many of the things it can do.
+2. I learned what a remote repository was and how to move and transfer it from Github to cloud9.
+3. I also learned how use a SSH key from cloud9 and move it to my Github account where it will be stored until I use it again. 
